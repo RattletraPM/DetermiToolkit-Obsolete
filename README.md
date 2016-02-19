@@ -6,3 +6,7 @@ for any reason).
 
 The tools are distributed under a CreativeCommons BY-NC 4.0 license.
 http://creativecommons.org/licenses/by-nc/4.0/
+
+#== USEFUL LINKS ==
+DetermiToolkit Devblog: http://udtranslation.altervista.org/
+DetermiToolkit on GitHub: https://github.com/RattletraPM/DetermiToolkit
