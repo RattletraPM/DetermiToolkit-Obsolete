@@ -9,8 +9,11 @@ http://creativecommons.org/licenses/by-nc/4.0/
 
 #== HOW TO COMPILE ==
 1)Get AutoIt from here:
+
 https://www.autoitscript.com/site/autoit/downloads/
+
 2)Move all the files from the include folders to <your AutoIt install dir>\Include
+
 3)Compile the scripts from AutoIt's script editor/SciTE/Aut2Exe
 
 OPTIONAL: Update the binaries inside bin if needed
