@@ -12,7 +12,7 @@ http://creativecommons.org/licenses/by-nc/4.0/
 
 https://www.autoitscript.com/site/autoit/downloads/
 
-2)Move all the files from the include folders to <your AutoIt install dir>\Include
+2)Move all the files from the include folders to your -AutoIt install dir-\Include
 
 3)Compile the scripts from AutoIt's script editor/SciTE/Aut2Exe
 
